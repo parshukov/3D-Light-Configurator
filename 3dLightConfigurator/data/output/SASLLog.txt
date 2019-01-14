@@ -1,0 +1,41 @@
+[3DLIGHTCONFIG INFO]: Initializing...
+[3DLIGHTCONFIG INFO]: Path to module: D:\X-Plane/X-Plane 11 New/Resources/plugins/3dLightConfigurator/data/modules/main.lua
+[3DLIGHTCONFIG INFO]: Loading module...
+[3DLIGHTCONFIG INFO]: [LUA]: loading	module
+[3DLIGHTCONFIG INFO]: [LUA]: loading	interface
+[3DLIGHTCONFIG INFO]: [LUA]: loading	popupCloseButton
+[3DLIGHTCONFIG INFO]: [LUA]: loading	rectangle
+[3DLIGHTCONFIG INFO]: [LUA]: loading	mouseFocusedZone
+[3DLIGHTCONFIG INFO]: [LUA]: loading	interactive
+[3DLIGHTCONFIG INFO]: Loading cursors...
+[3DLIGHTCONFIG INFO]: Module loaded
+[3DLIGHTCONFIG INFO]: [LUA]: "interface"	0
+[3DLIGHTCONFIG INFO]: [LUA]: "interface"	-
+[3DLIGHTCONFIG INFO]: [LUA]: "interface"	-
+[3DLIGHTCONFIG INFO]: [LUA]: "interface"	-
+[3DLIGHTCONFIG INFO]: [LUA]: "interface"	-
+[3DLIGHTCONFIG INFO]: [LUA]: "interface"	-
+[3DLIGHTCONFIG INFO]: [LUA]: "interface"	-
+[3DLIGHTCONFIG INFO]: [LUA]: "interface"	-
+[3DLIGHTCONFIG INFO]: [LUA]: "interface"	-
+[3DLIGHTCONFIG INFO]: [LUA]: "interface"	-
+[3DLIGHTCONFIG INFO]: [LUA]: "interface"	-
+[3DLIGHTCONFIG INFO]: [LUA]: "interface"	-0
+[3DLIGHTCONFIG INFO]: [LUA]: "interface"	0
+[3DLIGHTCONFIG INFO]: [LUA]: "interface"	-
+[3DLIGHTCONFIG INFO]: [LUA]: "interface"	-0.00
+[3DLIGHTCONFIG INFO]: [LUA]: "interface"	-0.0
+[3DLIGHTCONFIG INFO]: [LUA]: "interface"	-0
+[3DLIGHTCONFIG INFO]: [LUA]: "interface"	0
+[3DLIGHTCONFIG INFO]: [LUA]: "interface"	-
+[3DLIGHTCONFIG INFO]: [LUA]: "interface"	-0
+[3DLIGHTCONFIG INFO]: [LUA]: "interface"	0
+[3DLIGHTCONFIG INFO]: [LUA]: "interface"	0
+[3DLIGHTCONFIG INFO]: [LUA]: "interface"	-
+[3DLIGHTCONFIG INFO]: [LUA]: "interface"	0
+[3DLIGHTCONFIG INFO]: [LUA]: "interface"	0
+[3DLIGHTCONFIG INFO]: [LUA]: "interface"	-
+[3DLIGHTCONFIG INFO]: [LUA]: "interface"	0
+[3DLIGHTCONFIG INFO]: [LUA]: "interface"	-
+[3DLIGHTCONFIG INFO]: Disabling...
+[3DLIGHTCONFIG INFO]: SASL plugin stopped...
